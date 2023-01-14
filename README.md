@@ -27,13 +27,14 @@ __Ход работы__
 ![image](https://user-images.githubusercontent.com/95688497/212461695-f5f17300-39d6-4f4a-a0f8-290618a3731d.png)
 
 2)Хореография
+
 3)Структура базы данных
 
 ![image](https://user-images.githubusercontent.com/95688497/212461829-c3d7b108-289a-4077-8cae-b858e3f78043.png)
 
-4) Алгоритмы
+4)Алгоритмы
 
-5) Пример работы
+5)Пример работы
 
 ![image](https://user-images.githubusercontent.com/95688497/212461987-6c4e6ddb-b343-42ed-b4c3-8bd5e925b262.png)
 
